@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # coding=utf-8
 # filter函数用法
 def is_even(x):
