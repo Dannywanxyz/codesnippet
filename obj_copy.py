@@ -15,3 +15,5 @@ print 'after=>'
 print a
 print b
 print c
+x = 3.14
+import sys
